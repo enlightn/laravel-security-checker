@@ -1,6 +1,6 @@
 # Enlightn Security Checker for Laravel
 
-The Enlightn Security Checker for Laravel package includes an Artisan command that checks if your application uses dependencies with known security vulnerabilities. It is a wrapper around the [Enlightn Security Checker](https://github.com/enlightn/security-checker).
+This package includes an Artisan command that checks if your application uses dependencies with known security vulnerabilities. It is a wrapper around the [Enlightn Security Checker](https://github.com/enlightn/security-checker).
 
 ## Installation
 
