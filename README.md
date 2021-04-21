@@ -7,7 +7,7 @@ This package includes an Artisan command that checks if your application uses de
 You may use Composer to install the package on your Laravel application:
 
 ```bash
-composer require enlightn/laravel-security-checker
+composer require --dev enlightn/laravel-security-checker
 ```
 
 ## Usage
