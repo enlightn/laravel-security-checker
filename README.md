@@ -18,6 +18,9 @@ To check for security vulnerabilities in your dependencies, you may run the `sec
 php artisan security:check
 ```
 
+![sec-checker](https://user-images.githubusercontent.com/16099046/115501322-a4466800-a290-11eb-9242-ba1ac41912a0.png)
+
+
 ## Options & Arguments
 
 ### Composer Lock File
